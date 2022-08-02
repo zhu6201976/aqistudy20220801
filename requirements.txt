@@ -1,0 +1,4 @@
+mitmproxy==5.3.0
+PyExecJS==1.5.1
+requests==2.26.0
+loguru==0.6.0
